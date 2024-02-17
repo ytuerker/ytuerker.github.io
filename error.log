@@ -89,3 +89,21 @@ Sat Feb 17 2024 03:26:13 GMT+0100 (Central European Standard Time)
 fatal: could not read Username for 'https://github.com': No such device or address
 
 
+----------
+
+Sat Feb 17 2024 03:27:22 GMT+0100 (Central European Standard Time)
+
+remote: error: GH007: Your push would publish a private email address.        
+remote: You can make your email public or disable this protection by visiting:        
+remote: http://github.com/settings/emails        
+
+
+----------
+
+Sat Feb 17 2024 03:27:22 GMT+0100 (Central European Standard Time)
+
+To github.com:ytuerker/ytuerker.github.io.git
+ ! [remote rejected] main -> main (push declined due to email privacy restrictions)
+error: failed to push some refs to 'github.com:ytuerker/ytuerker.github.io.git'
+
+
